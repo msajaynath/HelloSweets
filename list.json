@@ -1,0 +1,12 @@
+[
+  {
+  "path":"path",
+  "name":"name1",
+  "price":1.10,
+  },
+   {
+  "path":"path",
+  "name":"name2",
+  "price":1.10,
+  }
+]
