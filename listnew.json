@@ -1,44 +1,44 @@
 { "list":[
   {
   "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic1.png",
-  "name":"Pfirsichringe 150 Stück",
+  "name":"Pfirsichringe",
   "price":0.10
   },
    {
   "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic2.png",
-  "name":"Pfirsichherzen 150 Stück",
+  "name":"Pfirsichherzen ",
   "price":0.10
   },{
   "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic3.png",
-  "name":"Fruchtschlangen 150 Stück",
+  "name":"Fruchtschlangen ",
   "price":0.10
   },{
   "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic4.png",
-  "name":"Erdbeeren Classic 150 Stück",
+  "name":"Erdbeeren Classic ",
   "price":0.10
   },{
   "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic5.png",
-  "name":"Colaflaschen Classic 150 Stück",
+  "name":"Colaflaschen Classic ",
   "price":0.10
   },{
   "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic6.png",
-  "name":"Erdbeeren Sauer 150 Stück",
+  "name":"Erdbeeren Sauer ",
   "price":0.10
   },{
   "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic7.png",
-  "name":"Big Cake Pfirsich 150 Stück",
+  "name":"Big Cake Pfirsich ",
   "price":0.10
   },{
   "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic8.png",
-  "name":"Colaschlangen Sauer 150 Stück",
+  "name":"Colaschlangen Sauer ",
   "price":0.10
   },{
   "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic9.png",
-  "name":"Draculazähne 150 Stück",
+  "name":"Draculazähne ",
   "price":0.10
   },{
   "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic10.png",
-  "name":"Apfelringe 150 Stück ",
+  "name":"Apfelringe ",
   "price":0.10
   }
 ]
