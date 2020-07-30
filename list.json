@@ -1,12 +1,12 @@
 { "list":[
   {
-  "path":"path",
+  "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic1.png",
   "name":"Pfirsichringe 150 Stück",
   "price":1.10
   },
    {
-  "path":"path",
-  "name":"name2",
+  "path":"https://raw.githubusercontent.com/msajaynath/HelloSweets/master/pic1.png",
+  "name":"Pfirsichherzen 150 Stück",
   "price":1.10
   }
 ]
